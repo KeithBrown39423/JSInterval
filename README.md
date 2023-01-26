@@ -10,6 +10,7 @@
 JSInterval is a JavaScript library that makes working with intervals easier. It has a simple API and can be used in both Node.js and the browser
 
 ## Credit
+
 This project makes use of [vercel/ms](https://github.com/vercel/ms)
 
 ## Installation
