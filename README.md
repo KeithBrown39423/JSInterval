@@ -9,6 +9,9 @@
 
 JSInterval is a JavaScript library that makes working with intervals easier. It has a simple API and can be used in both Node.js and the browser
 
+## Credit
+This project makes use of [vercel/ms](https://github.com/vercel/ms)
+
 ## Installation
 
 Install JSInterval with npm
@@ -60,4 +63,4 @@ For support, email [keithbrown39423@outlook.com](mailto:keithbrown39423@outlook.
 
 ## License
 
-[ISC](https://github.com/KeithBrown39423/JSInterval/blob/main/LICENSE)
+[MIT](https://github.com/KeithBrown39423/JSInterval/blob/main/LICENSE)
