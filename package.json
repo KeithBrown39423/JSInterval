@@ -1,6 +1,6 @@
 {
   "name": "jsinterval",
-  "version": "5.0.0",
+  "version": "5.1.0",
   "description": "JSInterval is a JavaScript library that makes working with intervals easier.",
   "keywords": [
     "interval",
@@ -12,7 +12,7 @@
     "name": "KeithBrown39423",
     "email": "keithbrown39423@outlook.com"
   },
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "ms": "2.1.3"
   }
