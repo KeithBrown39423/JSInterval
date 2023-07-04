@@ -1,4 +1,4 @@
-declare module "ms" {
+declare module "jsinterval" {
   class Interval {
     constructor(func: Function, delay: string | number, start?: boolean);
     expected: number;
@@ -7,7 +7,7 @@ declare module "ms" {
     delay: number;
     started: boolean;
     start: () => void;
-    update(): () => void;
+    update: () => void;
     pause: () => void;
     resume: () => void;
   }
